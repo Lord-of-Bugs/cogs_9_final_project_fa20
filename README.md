@@ -1,1 +1,2 @@
 # cogs_9_final_project_fa20
+# This repository contains a Jupyter notebook and a module used for carrying out our data wrangling and visualization. The original dataset is 5GB worth in volume, therefore we decided to leave it out. It can be found via this link on Kaggle: https://www.kaggle.com/alexgude/california-traffic-collision-data-from-switrs. More detailed descriptions can be found there. Here is another link to the data dictionary that documents the meaning of each variable listed in the database: https://tims.berkeley.edu/help/SWITRS.php.
